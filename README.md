@@ -2,7 +2,7 @@
 ### Hello, devs!
 
 - Atualmente sou aluno do curso Fullstack Javascript da Onebitcode.
-- Procuro colaborar em projetos frontend.
+- Procuro colaborar em projetos FrontEnd.
 
 ## Ferramentas e Tecnologias:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
