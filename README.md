@@ -1,7 +1,7 @@
 ### Gabriel de Albuquerque
 ### Hello, devs!
 
-- Atualmente sou aluno do curso Fullstack Javascript da Onebitcode.
+- Atualmente sou aluno do curso Fullstack JavaScript da Onebitcode.
 - Procuro colaborar em projetos FrontEnd.
 
 ## Ferramentas e Tecnologias:
